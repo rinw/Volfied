@@ -1,0 +1,16 @@
+
+
+
+1. un array in care stocam coordonatele poligonului curent
+2. o variabila in care stocam pozitia curenta a player-ului
+3. o variabila cu starea jocului (moveing, cuting, game over)
+4. un array in care stocam punctele path-ului de taiere.
+5. o lista cu monstrii/ Primul monstru decide poligonul curent
+
+
+function move_on_poligon (x0, y0, x, y, poli) {
+	
+}  
+
+function 
+
